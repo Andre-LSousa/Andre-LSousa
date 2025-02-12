@@ -26,7 +26,9 @@
   
 <br><br>
 <h2>Tools</h2>
-Eclipse/IntelliJ IDEA/PyCharm
+<li>Eclipse
+<li>IntelliJ IDEA
+<li>PyCharm
 <li>Git
 <li>PlantUML/StarUML
 <li>SceneBuilder
