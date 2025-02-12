@@ -13,16 +13,85 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Andre-LSousa&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
- 
-### Main skills:
 
-### Tools:
+<br><br>
+<h2>Main Skills:</h2>
+Java: Desenvolvimento de aplicações back-end e front-end com Java.
 
- 
-### Other Knowledge:
+<li>JDBC: Conexão e manipulação de bancos de dados usando Java Database Connectivity.
 
-  
-### Studying in this moment:
+<li>MySQL: Criação, manutenção e consultas em bancos de dados MySQL.
+
+<li>PostgreSQL: Criação, manutenção e consultas em bancos de dados PostgreSQL.
+
+<li>JavaFX: Desenvolvimento de interfaces gráficas ricas e interativas.
+
+<li>FXML: Definição de interfaces gráficas de maneira declarativa.
+
+<li>SceneBuilder: Construção visual de layouts JavaFX.
+
+<br><br>
+<h2>Tools</h2>
+Eclipse/IntelliJ IDEA/PyCharm: IDEs utilizadas para desenvolvimento.
+
+<li>Git: Controle de versão para gerenciar mudanças no código-fonte.
+
+<li>PlantUML/StarUML: Ferramentas para criação de diagramas UML.
+
+<li>SceneBuilder: Ferramenta visual para criação de layouts FXML.
+
+<li>MySQL Workbench: Ferramenta para gerenciar e administrar bancos de dados MySQL.
+
+<li>Postman: Ferramenta para testar APIs.
+
+<li>Maven: Gerenciamento de dependências e build de projetos Java.
+
+<li>Apache Tomcat: Servidor web para executar aplicações Java.
+
+<li>Heroku: Plataforma de deploy para aplicações web.
+
+<li>Code::Blocks/Visualg: IDEs para desenvolvimento em C e Portugol.
+
+
+<br><br>
+<h2>Other Knowledge:</h2>
+CSS: Estilização de interfaces gráficas.
+
+<li>JavaScript: Manipulação de comportamentos dinâmicos no front-end.
+
+<li>HTML: Estruturação básica de páginas web.
+
+<li>MVC Architecture: Padrão de arquitetura para desenvolvimento de aplicações.
+
+<li>OOP (Object-Oriented Programming): Conceitos de programação orientada a objetos.
+
+<li>NoSQL (MongoDB): Bancos de dados não relacionais e gerenciamento de dados no MongoDB.
+
+<li>JPA/Hibernate: Persistência de dados usando JPA com implementação Hibernate.
+
+<li>H2 Database: Banco de dados em memória para testes e desenvolvimento.
+
+<li>C/C++/C#: Linguagens de programação para desenvolvimento de aplicações diversas.
+
+<li>Python: Desenvolvimento de scripts e aplicações diversas.
+
+<li>PHP: Desenvolvimento de aplicações web.
+
+<li>Portugol: Linguagem de programação educacional.
+
+
+<br><br>
+<h2>Studying in this moment:</h2>
+<li>Advanced Java: Estudo de tópicos avançados em Java, como Streams, Lambdas e Concurrency.
+
+<li>Spring Framework: Framework para desenvolvimento de aplicações Java corporativas.
+
+<li>RESTful APIs: Desenvolvimento e consumo de APIs RESTful.
+
+<li>Microservices: Arquitetura de microserviços para aplicações escaláveis e distribuídas.
+
+<li>Design Patterns: Padrões de design para resolução de problemas recorrentes no desenvolvimento de software.
+
 
 
 <div align="center">
